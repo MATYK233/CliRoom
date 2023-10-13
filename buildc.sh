@@ -1,0 +1,1 @@
+gcc main.c -Wall -Wextra -std=c99 -o ./build/opt
